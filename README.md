@@ -80,5 +80,5 @@ Failed Login Attempts: 5
 
 ## Project Page
 
-[Project Repository URL](https://github.com/rinkush45/Roadmap-Tasks.git)
+[Project URL](https://github.com/rinkush45/Roadmap-Tasks.git)
 
